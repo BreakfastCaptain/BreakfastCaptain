@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BreakfastCaptain
-- 👀 I’m interested in playing chess and mahjong, and psychology always attracts me a lot. In the future, I hope I will have the opportunity to travel around the world.
+- 👀 I’m interested in playing chess and mahjong, and psychology always attracts me a lot. 
 - 🌱 I’m currently learning AI about robotics.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 595752038@qq.com
+- 📫 How to reach me 17721295167@163.com
 
 <!---
 BreakfastCaptain/BreakfastCaptain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
